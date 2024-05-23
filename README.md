@@ -19,5 +19,5 @@ docker-compose -f docker-compose-rhasspy.yml up
 
 # Run with docker run using the sh script
 ```
-docker-compose -f docker-compose-rhasspy.yml up
+sh rhasspy_run.sh
 ```
